@@ -37,3 +37,17 @@ gspe35-cdn.v.aaplimg.com
 gspe35-ssl.ls.apple.com
 gsp-ssl.ls.apple.com
 p134-fmfmobile.icloud.com
+quota.icloud.com
+acsegateway.fe2.apple-dns.net
+p134-acsegateway.icloud.com
+c.apple.news
+cdn-icloud-content.g.aaplimg.com
+gsas.idms-apple.com.akadns.net
+e673.dsce9.akamaiedge.net
+gsas.apple.com
+icloud.com
+quota.fe2.apple-dns.net
+captive.g.aaplimg.com
+captive.apple.com
+configuration.apple.com
+gspe19-2-ssl.ls.apple.com
