@@ -26,3 +26,5 @@ smp-device-content.apple.com
 query.ess-apple.com.akadns.net
 lcdn-locator.apple.com
 ontology.health.apple.com
+xp.apple.com
+amp-api-edge.apps.apple.com
